@@ -1,4 +1,4 @@
-csv_data = '''ID KH ,Toi ,gioi tinh,Thu nhap,Nghe,Diem tin dung,SP da mua,Gia,So luong,ngay mua
+csv_data = '''ID KH,Tuoi,gioi tinh,Thu nhap,Nghe,Diem tin dung,SP da mua,Gia,So luong,ngay mua
 1,30,50000,ky su phan mem , 750,Dien thoai,500,1,2026-02-15
 2,25,Nu,30000,Giao vien,680,may tinh,700,1,2026-02-10
 3.40,Nam,75000,Bac si,820,Tivi,1000,1,2026-03-02
